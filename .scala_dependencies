@@ -1,18 +1,14 @@
-C:\Users\tim.wieschalla\Desktop\scala-git\git\bin;E:\eclipse-helios-modeling\configuration\org.eclipse.osgi\bundles\971\1\.cp\lib\scala-library.jar;E:\eclipse-helios-modeling\configuration\org.eclipse.osgi\bundles\971\1\.cp\lib\scala-dbc.jar;E:\eclipse-helios-modeling\configuration\org.eclipse.osgi\bundles\971\1\.cp\lib\scala-swing.jar;C:\Program Files\Java\jre6\lib\resources.jar;C:\Program Files\Java\jre6\lib\rt.jar;C:\Program Files\Java\jre6\lib\jsse.jar;C:\Program Files\Java\jre6\lib\jce.jar;C:\Program Files\Java\jre6\lib\charsets.jar;C:\Program Files\Java\jre6\lib\ext\dnsns.jar;C:\Program Files\Java\jre6\lib\ext\localedata.jar;C:\Program Files\Java\jre6\lib\ext\sunjce_provider.jar
+C:\Users\Tim\bp-2010-g2\bin;C:\Daten\eclipse_helios\configuration\org.eclipse.osgi\bundles\203\1\.cp\lib\scala-library.jar;C:\Daten\eclipse_helios\configuration\org.eclipse.osgi\bundles\203\1\.cp\lib\scala-dbc.jar;C:\Daten\eclipse_helios\configuration\org.eclipse.osgi\bundles\203\1\.cp\lib\scala-swing.jar;C:\Program Files\Java\jre6\lib\resources.jar;C:\Program Files\Java\jre6\lib\rt.jar;C:\Program Files\Java\jre6\lib\jsse.jar;C:\Program Files\Java\jre6\lib\jce.jar;C:\Program Files\Java\jre6\lib\charsets.jar;C:\Program Files\Java\jre6\lib\ext\dnsns.jar;C:\Program Files\Java\jre6\lib\ext\dns_sd.jar;C:\Program Files\Java\jre6\lib\ext\localedata.jar;C:\Program Files\Java\jre6\lib\ext\QTJava.zip;C:\Program Files\Java\jre6\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jre6\lib\ext\sunmscapi.jar;C:\Program Files\Java\jre6\lib\ext\sunpkcs11.jar
 -------
-C:\Users\tim.wieschalla\Desktop\scala-git\git\src\main.scala -> C:\Users\tim.wieschalla\Desktop\scala-git\git\src\pingpong.scala
-C:\Users\tim.wieschalla\Desktop\scala-git\git\src\main.scala -> C:\Users\tim.wieschalla\Desktop\scala-git\git\src\main.scala
-C:\Users\tim.wieschalla\Desktop\scala-git\git\src\pingpong.scala -> C:\Users\tim.wieschalla\Desktop\scala-git\git\src\pingpong.scala
+C:\Users\Tim\bp-2010-g2\src\tsp.scala -> C:\Users\Tim\bp-2010-g2\src\tsp.scala
 -------
-C:\Users\tim.wieschalla\Desktop\scala-git\git\src\main.scala -> C:\Users\tim.wieschalla\Desktop\scala-git\git\bin\parallel$.class
-C:\Users\tim.wieschalla\Desktop\scala-git\git\src\main.scala -> C:\Users\tim.wieschalla\Desktop\scala-git\git\bin\parallel.class
-C:\Users\tim.wieschalla\Desktop\scala-git\git\src\pingpong.scala -> C:\Users\tim.wieschalla\Desktop\scala-git\git\bin\Stop.class
-C:\Users\tim.wieschalla\Desktop\scala-git\git\src\pingpong.scala -> C:\Users\tim.wieschalla\Desktop\scala-git\git\bin\Pong$$anonfun$act$2$$anonfun$apply$2.class
-C:\Users\tim.wieschalla\Desktop\scala-git\git\src\pingpong.scala -> C:\Users\tim.wieschalla\Desktop\scala-git\git\bin\Pong.class
-C:\Users\tim.wieschalla\Desktop\scala-git\git\src\pingpong.scala -> C:\Users\tim.wieschalla\Desktop\scala-git\git\bin\Ping$.class
-C:\Users\tim.wieschalla\Desktop\scala-git\git\src\pingpong.scala -> C:\Users\tim.wieschalla\Desktop\scala-git\git\bin\Ping.class
-C:\Users\tim.wieschalla\Desktop\scala-git\git\src\pingpong.scala -> C:\Users\tim.wieschalla\Desktop\scala-git\git\bin\Ping$$anonfun$act$1$$anonfun$apply$1.class
-C:\Users\tim.wieschalla\Desktop\scala-git\git\src\pingpong.scala -> C:\Users\tim.wieschalla\Desktop\scala-git\git\bin\Ping$$anonfun$act$1.class
-C:\Users\tim.wieschalla\Desktop\scala-git\git\src\pingpong.scala -> C:\Users\tim.wieschalla\Desktop\scala-git\git\bin\Stop$.class
-C:\Users\tim.wieschalla\Desktop\scala-git\git\src\pingpong.scala -> C:\Users\tim.wieschalla\Desktop\scala-git\git\bin\Pong$$anonfun$act$2.class
-C:\Users\tim.wieschalla\Desktop\scala-git\git\src\pingpong.scala -> C:\Users\tim.wieschalla\Desktop\scala-git\git\bin\Pong$.class
+C:\Users\Tim\bp-2010-g2\src\tsp.scala -> C:\Users\Tim\bp-2010-g2\bin\Result.class
+C:\Users\Tim\bp-2010-g2\src\tsp.scala -> C:\Users\Tim\bp-2010-g2\bin\ResultGatherer$$anonfun$act$1.class
+C:\Users\Tim\bp-2010-g2\src\tsp.scala -> C:\Users\Tim\bp-2010-g2\bin\Result$.class
+C:\Users\Tim\bp-2010-g2\src\tsp.scala -> C:\Users\Tim\bp-2010-g2\bin\Ant$.class
+C:\Users\Tim\bp-2010-g2\src\tsp.scala -> C:\Users\Tim\bp-2010-g2\bin\ResultGatherer.class
+C:\Users\Tim\bp-2010-g2\src\tsp.scala -> C:\Users\Tim\bp-2010-g2\bin\Ant.class
+C:\Users\Tim\bp-2010-g2\src\tsp.scala -> C:\Users\Tim\bp-2010-g2\bin\AntActor$$anonfun$pathLength$2.class
+C:\Users\Tim\bp-2010-g2\src\tsp.scala -> C:\Users\Tim\bp-2010-g2\bin\AntActor$$anonfun$pathLength$1.class
+C:\Users\Tim\bp-2010-g2\src\tsp.scala -> C:\Users\Tim\bp-2010-g2\bin\AntActor.class
+C:\Users\Tim\bp-2010-g2\src\tsp.scala -> C:\Users\Tim\bp-2010-g2\bin\AntActor$$anonfun$updatePher$1.class
